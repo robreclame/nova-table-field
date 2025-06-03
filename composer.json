@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-table-field",
+  "name": "robreclame/nova-table-field",
   "description": "Table field for Laravel Nova",
   "keywords": [
     "laravel",
@@ -33,7 +33,7 @@
   ],
   "require": {
     "php": "^8.0",
-    "laravel/nova": "^4.16",
+    "laravel/nova": "^4.16 | ^5.0",
     "nova-kit/nova-packages-tool": "^1.2"
   },
   "autoload": {
